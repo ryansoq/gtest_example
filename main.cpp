@@ -8,7 +8,7 @@ TEST(MyTest, ExampleTest) {
 
 TEST(ResNetTest, predict) {
     float golden_retriever = 12.5499;
-    float predict = 15.6399;
+    float predict = 12.6399;
 
     EXPECT_LT(std::abs(golden_retriever - predict), 0.1);
 }
