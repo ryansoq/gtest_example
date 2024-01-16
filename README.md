@@ -13,4 +13,5 @@ Tiny example to integrate gtest test on github actions and in your project.
 
 ```sh
 ./gtest output.sh
+./gtest <your project>
 ```
