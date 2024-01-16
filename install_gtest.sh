@@ -48,4 +48,4 @@ fi
 # Continue with the rest of the script
 echo "start ..."
 ./make.sh
-./example
+./gtest output.sh
